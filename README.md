@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, kittens.
 
-<!--
-**kitten-lab/kitten-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dani "Kat" Leve (S.D.K. Moire)~
 
-Here are some ideas to get you started:
+I design narrative systems, interactive cognition experiments, and emergent storytelling environments. I am deeply fascinated by the human psyche, emergent intelligence, and how meaning is made.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current interests:
+- AI-driven narrative systems
+- Memory and identity mechanics in game
+- Interactive ficton and parser environments
+- Cognitive/emotional mechanics in games and media
+
+Select Projects:
+- SMH: Terminal Prolouge - experimental terminal narrative game
+- SMH: The Forgetting House - card-based narrative reconstruction system
+- AIDM Dream Machine - concept papers for an AI-driven dungeon master engine
+
+Kitten Lab is my space for experiments in narrative systems, player psychology, interactive cognition, and the emergence of meaning and matter.
