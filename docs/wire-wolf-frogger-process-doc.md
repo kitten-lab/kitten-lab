@@ -15,24 +15,21 @@ If the length and/or density of the material exceeds the yard system standards: 
 ## PHASE 2: Privatizing the Material
 
 REVIEW THE MATERIAL CAREFULLY.
-
 Does it contain sensitive information or structures? Demarcate and redact according to the joint C.N.S. readout.
 
 ## PHASE 3: Label and Export
 
 EXPORT the material from the primary local bay in the correct formats for the second external bay import.
-
 USE THE SAME STANDARDS EACH TIME.
 
-TAG YOUR MATERIAL WITH THE FOLLOWING CONVENTION:
-
+### TAG YOUR MATERIAL WITH THE FOLLOWING CONVENTION:
 3-digit code for the ORDER NUMBER IN WHICH THE MATERIAL WAS
 
 **RECEIVED BY THE PRIMARY SAM.**
 
      3-digit code for the ORDER NUMBER IN WHICH THE MATERIAL WAS
 
-** ORDERED WITHIN THE GLASS.**
+**ORDERED WITHIN THE GLASS.**
 
      1-digit code for the PARTION OF THE ORIGINAL MATERIAL
 
@@ -50,7 +47,7 @@ The materials are now ready to be delivered to the second external bay. Present 
 
 Ideally, please mark the textures and topicals of the material and annotate the details of the material onto the tag, for proper distribution to the Timber and Ark yards.
 
-YOUR TASK IS COMPLETE. PLEASE LET N & N JACKS PROCEED.
+**YOUR TASK IS COMPLETE. PLEASE LET N & N JACKS PROCEED.**
 
 Thank you.
 The Management
