@@ -6,7 +6,7 @@ The purpose of this procedure is to ensure that all incoming materials are consi
 
 Primary SAM will receive the next material by prophetic imposition. When the event occurs, new IMPORT will be received at the primary local bay. 
 
-## PHASE 1: Preparing the Materialwww
+## PHASE 1: Preparing the Material
 
 IMPORT the materials from the primary bay. Identify the length and density of the material ahead of any official export.
 
