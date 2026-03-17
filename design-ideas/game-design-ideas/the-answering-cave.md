@@ -1,3 +1,26 @@
+## 🌑 The Answering Cave (Quick Snapshot)
+
+**Concept:**  
+A symbolic cave journey where the player enters with an intention and leaves with a meaningful fragment rather than a direct answer.
+
+**Core Loop:**  
+Intention → 3–5 encounters → receive fragment → (optional) evolves over time
+
+**Key Idea:**  
+The cave generates **meaning seeds**, not conclusions.
+
+**Explored Variants:**
+- Reflective (gentle, tarot-like)
+- Misinterpreting (resistant, tension-driven)
+- Hybrid (hidden cave “moods”)
+- Seed-based (answers unfold over time)
+
+**Core Problem:**  
+Without the Dream Gardener layer (growth, time, expression), the cave alone struggles to feel complete.
+
+**Current Status:**  
+Strong subsystem concept, not yet compelling as a standalone game.
+
 # 🌑 The Answering Cave — Concept Explorations
 
 ## Core Premise
