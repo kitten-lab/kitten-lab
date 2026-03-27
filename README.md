@@ -15,7 +15,7 @@
 `moire-arcana` analysis of archetypal energy and narrative as told through systems like the tarot and primary archetypal sets such as letters, numbers, etc.
 
 
-#### kitten-lab/kitten-lab may contain
+### kitten-lab/kitten-lab itself currently contains
 **design-ideas/** - rapid game ideas - rapid environment ideas
 
 **research-vaults/** - idea spaces for non-linear thinking
