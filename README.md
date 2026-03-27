@@ -4,7 +4,7 @@
 ## @kitten-lab may contain:
 ### games
 
-`silo-terminal-prolog` ![CARL|73](https://img.shields.io/badge/START-POINT-blue)a cli-adventure text game, there are no verbs of action—only thought. you don’t know who or what you are. can you bootstrap cognition and remember *if* you are?
+![CARL|73](https://img.shields.io/badge/featured-repo-red) `silo-terminal-prolog` a cli-adventure text game, there are no verbs of action—only thought. you don’t know who or what you are. can you bootstrap cognition and remember *if* you are?
 
 `silo-the-forgetting-house` a card-based, rogue-like game of amnesia, loss, and how we must put meaning back together from the fragments left behind. how do we recover ourselves after everything has fallen apart?
 
