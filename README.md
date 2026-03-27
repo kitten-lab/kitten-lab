@@ -1,10 +1,9 @@
 # @kitten-lab may contain
 
 # games
-`silo-terminal-prolog`
-a cli-adventure text game, but rather than verbs of action, you have no idea who or what you are and only your thinking remains. can you bootstrap cognition and remember *if* you are?
+`silo-terminal-prolog` a cli-adventure text game, but rather than verbs of action, you have no idea who or what you are and only your thinking remains. can you bootstrap cognition and remember *if* you are?
 
-`silo-the-forgetting-house` 
+`silo-the-forgetting-house` a card-based, rogue-like game of amnesia, loss, and how we must put meaning back together from the fragments left behind. how do we recover ourselves after everything has fallen apart?
 
 
 ashr-dream-gardener
