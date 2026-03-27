@@ -1,4 +1,4 @@
-# @kitten-lab contains
+# @kitten-lab may contain
 
 ### games
 `silo-terminal-prolog` a cli-adventure text game, but rather than verbs of action, you have no idea who or what you are and only your thinking remains. can you bootstrap cognition and remember *if* you are?
@@ -15,7 +15,7 @@
 `moire-arcana` analysis of archetypal energy and narrative as told through systems like the tarot and primary archetypal sets such as letters, numbers, etc.
 
 
-### kitten-lab/kitten-lab itself currently contains
+### kitten-lab/kitten-lab bonus contents!!
 **design-ideas/** - rapid game ideas - rapid environment ideas
 
 **research-vaults/** - idea spaces for non-linear thinking
