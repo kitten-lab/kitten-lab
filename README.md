@@ -1,6 +1,19 @@
-# Hi, kittens.
+# @kitten-lab may contain
 
-What is in the box?
+# games
+`silo-terminal-prolog`
+a cli-adventure text game, but rather than verbs of action, you have no idea who or what you are and only your thinking remains. can you bootstrap cognition and remember *if* you are?
+
+`silo-the-forgetting-house` 
+
+
+ashr-dream-gardener
+aidm-ai-dream-machina
+
+# systems-and-platforms
+**alef-bet-platform**
+**moire-arcana**
+
 ```
 narrative systems
 interactive cognation
@@ -9,6 +22,14 @@ matter from meaning
 ```
 
 ***Interesting***. Works for me. 
+
+# kitten-lab may contain
+## design-ideas/
+- rapid game ideas
+- rapid environment ideas
+
+## research-vaults/
+- idea spaces for non-linear thinking
 
 Current interests:
 - AI-driven narrative systems
