@@ -1,13 +1,19 @@
 # Hi, kittens.
 
-I'm Dani "Kat" Leve (S.D.K. Moire)~
+What is in the box?
+```
+narrative systems
+interactive cognation
+emergent storytelling
+matter from meaning
+```
 
-I design narrative systems, interactive cognition experiments, and emergent storytelling environments. I am deeply fascinated by the human psyche, emergent intelligence, and how meaning is made.
+***Interesting***. Works for me. 
 
 Current interests:
 - AI-driven narrative systems
-- Memory and identity mechanics in game
-- Interactive ficton and parser environments
+- Memory and identity mechanics in games
+- Interactive fiction and parser environments
 - Cognitive/emotional mechanics in games and media
 
 Select Projects:
