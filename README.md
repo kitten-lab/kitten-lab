@@ -5,9 +5,9 @@
 
 `silo-the-forgetting-house` a card-based, rogue-like game of amnesia, loss, and how we must put meaning back together from the fragments left behind. how do we recover ourselves after everything has fallen apart?
 
+`ashr-dream-gardener` a cozy-style game. you are a dream gardener with your plot of the dreaming. what will you grow? what will you share? and what is with that strange cave that keeps appearing next to your dream? an adventure awaits.
 
-ashr-dream-gardener
-aidm-ai-dream-machina
+`aidm-ai-dream-machina` imagine an endless d&d style adventure, sprawling worlds with massive-multiplayer engagement, maybe universes, timelines, and possibility. an ai-assisted, creator driven procedurally generated game system with narrative continuity and story evolution reasoning. 
 
 # systems-and-platforms
 **alef-bet-platform**
