@@ -14,7 +14,7 @@
 
 ### narrative systems
 
-![CARL|73](https://img.shields.io/badge/featured-repo-red)  `interra` architecture for a sprawling online environment functioning both as a cognitive engine and an interactive-arg for myself and others.
+![CARL|73](https://img.shields.io/badge/featured-repo-red)  `silo-my-pocket-internet` architecture for a sprawling online environment functioning both as a cognitive engine and an interactive-arg for myself and others.
 
 `moire-arcana` analysis of archetypal energy and narrative as told through systems like the tarot and primary archetypal sets such as letters, numbers, etc.
 
