@@ -1,27 +1,32 @@
 # kitten-lab
-*noun* | a lab for playfully serious experiments in memory, systems, and strange narratives
+_noun | a lab for playfully serious systems, games, and symbolic frameworks_
 
-## @kitten-lab may contain:
-### games
+i’m a systems designer with 20+ years in game design.  
+this space holds my ongoing work across tools, games, and experimental frameworks.
 
-`silo-terminal-prolog` a cli-adventure text game, there are no verbs of action—only thought. you don’t know who or what you are. can you bootstrap cognition and remember *if* you are?
+---
 
-`silo-the-forgetting-house` a card-based, rogue-like system of amnesia and loss—reassembling meaning from fragments left behind. how do we recover ourselves after everything has fallen apart?
+## current focus
 
-`ashr-dream-gardener` a cozy system of cultivation within the dreaming. what will you grow? what will you share? what is the deal with that cave that keeps appearing?
+### silo (pocket internet)
 
-`adm-ka-machina` imagine an endless d&d style adventure, sprawling worlds with massive-multiplayer engagement, maybe universes, timelines, and possibility. an ai-assisted system for generating continuous worlds—where narrative, players, and possibility evolve together.
+a personal "rabbit hole machine" for exploring connected ideas, entities, and events over time.
 
-### narrative systems
+silo is a proto-system for understanding how intelligence constructs meaning from the intersections between concepts.  
+it models information as a navigable network — where narrative and meaning are not stored, but constructed through traversal.
 
-![CARL|73](https://img.shields.io/badge/featured-repo-red)  `silo-my-pocket-internet` architecture for a sprawling online environment functioning both as a cognitive engine and an interactive-arg for myself and others.
+---
 
-`moire-arcana` analysis of archetypal energy and narrative as told through systems like the tarot and primary archetypal sets such as letters, numbers, etc.
+## selected projects
 
+- **skylite** — a DSL for composing dynamic pages  
+- **terminal prolog** — a CLI-based narrative game about bootstrapping cognition  
+- **the forgetting house** — a nonlinear card-based memory reconstruction game  
+- **chester’s toy box** — experimental tools and interactive fragments  
+- **adm (ka machina)** — a social/world system blending AI and player-driven narrative  
+- **ashr (dream gardener)** — a mythic cozy system driven by archetype and personal input  
+- **moire arcana** — frameworks of frameworks, the intersections of systems that model systems (tarot, kabbalah, symbolic structures)
 
-### kitten-lab/kitten-lab un-indexed matters
-**design-ideas/** - rapid game ideas - rapid environment ideas
+---
 
-**research-vaults/** - idea spaces for non-linear thinking
-
-**resume/** - i might add my resume and background here eventually.
+more documentation incoming.
